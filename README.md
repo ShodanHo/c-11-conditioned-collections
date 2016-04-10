@@ -1,4 +1,4 @@
-# cplusplus11-thread-safe-containers
+# cplusplus11-templates
 
 STL containers that are thread-safe.
 
